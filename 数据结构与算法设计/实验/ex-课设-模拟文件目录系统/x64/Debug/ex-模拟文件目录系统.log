@@ -1,0 +1,6 @@
+﻿  CatalogTree.cpp
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-模拟文件目录系统\CatalogTree.cpp(344,24): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-模拟文件目录系统\CatalogTree.cpp(405,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-模拟文件目录系统\CatalogTree.cpp(423,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-模拟文件目录系统\CatalogTree.cpp(448,20): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ex-模拟文件目录系统.vcxproj -> D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-模拟文件目录系统\x64\Debug\ex-模拟文件目录系统.exe

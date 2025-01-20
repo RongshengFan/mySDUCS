@@ -1,0 +1,7 @@
+mkdir s3
+mkdir s2
+mkdir s1
+mkfile f1
+mkfile f2
+mkfile f3
+quit
