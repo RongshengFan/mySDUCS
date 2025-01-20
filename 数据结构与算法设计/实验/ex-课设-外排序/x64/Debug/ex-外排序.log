@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(16,11): warning C4459: “page_size”的声明隐藏了全局声明
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(6,12): message : 参见“page_size”的声明
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(72,11): warning C4129: “C”: 不可识别的字符转义序列
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(72,11): warning C4129: “V”: 不可识别的字符转义序列
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(72,11): warning C4129: “)”: 不可识别的字符转义序列
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(177,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(250,15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(416,32): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(435,39): warning C4244: “=”: 从“std::streamoff”转换到“int”，可能丢失数据
+D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\externsort.h(446,9): warning C4101: “tempy”: 未引用的局部变量
+x64\Debug\minlosertree.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  ex-外排序.vcxproj -> D:\CodeFile\VS\ex-数据结构与算法设计基础实验\ex-外排序\x64\Debug\ex-外排序.exe
