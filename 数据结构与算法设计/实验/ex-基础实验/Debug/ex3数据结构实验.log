@@ -1,0 +1,16 @@
+﻿  arrayList.cpp
+  main.cpp
+  实验1.1.cpp
+  实验1.2.cpp
+  实验3.cpp
+  实验2.cpp
+  正在生成代码...
+main.obj : error LNK2019: 无法解析的外部符号 "public: __thiscall arrayList<int>::arrayList<int>(int)" (??0?$arrayList@H@@QAE@H@Z)，函数 _main 中引用了该符号
+main.obj : error LNK2001: 无法解析的外部符号 "public: virtual int & __thiscall arrayList<int>::get(int)const " (?get@?$arrayList@H@@UBEAAHH@Z)
+main.obj : error LNK2001: 无法解析的外部符号 "public: virtual int __thiscall arrayList<int>::indexOf(int const &)const " (?indexOf@?$arrayList@H@@UBEHABH@Z)
+main.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __thiscall arrayList<int>::erase(int)" (?erase@?$arrayList@H@@UAEXH@Z)
+main.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __thiscall arrayList<int>::insert(int,int const &)" (?insert@?$arrayList@H@@UAEXHABH@Z)
+main.obj : error LNK2001: 无法解析的外部符号 "public: virtual void __thiscall arrayList<int>::output(class std::basic_ostream<char,struct std::char_traits<char> > &)const " (?output@?$arrayList@H@@UBEXAAV?$basic_ostream@DU?$char_traits@D@std@@@std@@@Z)
+main.obj : error LNK2019: 无法解析的外部符号 "public: void __thiscall arrayList<int>::push_back(int const &)const " (?push_back@?$arrayList@H@@QBEXABH@Z)，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 "public: int & __thiscall arrayList<int>::pop_back(void)const " (?pop_back@?$arrayList@H@@QBEAAHXZ)，函数 _main 中引用了该符号
+D:\Code file\VS\ex3数据结构实验\Debug\ex3数据结构实验.exe : fatal error LNK1120: 8 个无法解析的外部命令
