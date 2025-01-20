@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/code file/vs/ex3数据结构实验/arraylist.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "2b184b08bc4e4461862b8444c2202e58f0e5f6fd08ca1672bb184909b082ce82"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code file/vs/ex3数据结构实验/arraylist.h"
+          },
+          "hashes": {
+            "sha-256": "58a54315cc43858e54454701d5bbb523b227d5b0f6cd37c13e59b98a72a85169"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/code file/vs/ex3数据结构实验/linearlist.h"
+          },
+          "hashes": {
+            "sha-256": "d1250554d73e66196b1dd30a85ce890fc8efb81982fcfbb584de3f45c07f8821"
+          }
+        }
+      ]
+    }
+  ]
+}
